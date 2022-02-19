@@ -1,17 +1,14 @@
 
-@font-face {
-	font-family: Bauhaus;
-	src: url("http://www.fontineed.com/font/7864_Bauhaus");
-}
-
 h2 {
-	border: 4px solid #C08808;
+	outline: 6px solid #C08808;
+	border: 6px solid white;
 	border-radius: 60%;
 	background-color: #08005C;
 	color: white;
 	width: 150px;
+	height: 40px;
 	text-align: center;
-	font-family: Bauhaus;
+	padding-top: 5px;
 }
 
 h2:hover {
